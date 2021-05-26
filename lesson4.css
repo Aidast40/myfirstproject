@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&family=Montserrat:ital@1&display=swap');
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+    position: fixed;
+    left: 90%;
+    font-family: sans-serif;
+    color: #00aeff;
+}
+
+.Voity {
+    width: 150%;
+    height: 30px;
+    border: 2px solid #00aeff;
+    border-radius: 5px;
+    background-color: #ffff;
+    color:00aeff;
+}
+
+.Korzyna{
+    width: 140%;
+    height: 30px;
+    border: 2px solid #00aeff;
+    border-radius: 5px;
+    background-color: #ffff;
+    color:00aeff;
+}
+
+/* .span{
+    color: #00aeff;;
+} */
